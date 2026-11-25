@@ -1,0 +1,1 @@
+# id|sender(base64)|subject(base64)|priority|arrivalTime|arrivalOrder|read|body(base64)
